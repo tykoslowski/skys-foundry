@@ -365,7 +365,7 @@ async function makeBold(app, html, data) {
 Actors.registerSheet("dnd5e", Alt5eSheet, {
   types: ["character"],
   makeDefault: false,
-	label: "Sky's Alternate 5e Sheet"
+	label: "Ty's Alternate 5e Sheet"
 });
 
 Hooks.on("renderAlt5eSheet", (app, html, data) => {
