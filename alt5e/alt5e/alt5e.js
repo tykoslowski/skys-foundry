@@ -1,4 +1,4 @@
-import { DND5E, ActorSheet5eCharacter } from "../../systems/dnd5e/dnd5e.js";
+import { DND5E, ActorSheet5eCharacter } from "../../systems/dnd5e/dnd5e.mjs";
 
 // VERSION INFORMATION
 const Alt5e_Author = "Sky";
